@@ -39,7 +39,7 @@ class _pointsCounterState extends State<pointsCounter> {
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
                       Text(
-                        'Team E',
+                        'Team A',
                         style: TextStyle(
                           fontSize: 32,
                         ),
